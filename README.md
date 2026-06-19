@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There+Nice to see you!+👋;I'm+Nindy+Odyani;Senior+Full+Stack+Developer;Design+Systems+%26+Micro+Frontend;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Nindy+Odyani;Senior+Full+Stack+Developer;Design+Systems+%26+Micro+Frontend;&center=true&size=30">
   </a>
 </h1>
 
@@ -70,4 +70,5 @@ Hi, I'm **Nindy Odyani**, Senior Full Stack Developer from 🇮🇩 **Pekanbaru,
 [![weather-app](https://github-readme-stats.vercel.app/api/pin/?username=nindyoo&repo=weather-app&theme=react&border_color=61dafb&border_radius=10)](https://github.com/nindyoo/weather-app)
 
 #### [🔎 Show More 🔍](https://github.com/nindyoo?tab=repositories "Show Repositories")
+
 
